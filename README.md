@@ -1,4 +1,4 @@
-# br.com.supera project
+# Projeto Supera
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
