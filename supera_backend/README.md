@@ -1,4 +1,8 @@
+<<<<<<< HEAD:supera_backend/README.md
 # projeto_supera project
+=======
+# Projeto Supera
+>>>>>>> d29f1b16d5b680ae5e82847d94192028d26e06be:README.md
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
